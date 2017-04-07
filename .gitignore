@@ -23,7 +23,9 @@ Thumbs.db
 #########################
 config/config.php
 
-# Ignore some folders #
-#######################
+# Ignore some folders & files #
+###############################
 vendor/
 save/
+composer.json
+composer.lock
