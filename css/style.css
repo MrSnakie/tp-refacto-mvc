@@ -1,0 +1,15 @@
+body {
+  padding-top: 100px; }
+  body h1 .error {
+    background-color: red;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    padding: 1em; }
+  body h1 .connect {
+    text-align: center;
+    margin-bottom: 0.5em; }
+  body h1 .my-separator {
+    border-bottom: 2px solid #449d44; }
+  body .size {
+    width: 100%; }
